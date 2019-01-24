@@ -1,4 +1,7 @@
 /*Usar estas clases para centar*/
+*{
+
+}
 .centrar{
 	text-align: center;
 	font-weight: bold;
@@ -15,6 +18,7 @@
 }
 
 h2{
+	font-size: 20px;
 	color: white;
 }
 h3{
