@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+  <title>index</title>
+  <link>https://ernesstocm.github.io/pagina-web/</link>
+  <description>pagina de sagas</description>
+  <lenguage>es-ES</lenguage>
+ 
+  <item>
+    <title>Peliculas</title>
+    <link>https://ernesstocm.github.io/pagina-web/Peliculas.html</link>
+    <description>Es una pagina de Star Wars</description>
+  </item>
+
+  <item>
+    <title>Libros</title>
+    <link>https://ernesstocm.github.io/pagina-web/Libros.html</link>
+    <description>Es una pagina de libros</description>
+
+  </item>
+</channel>
+
+</rss> 
